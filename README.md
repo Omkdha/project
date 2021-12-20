@@ -1,9 +1,4 @@
-# projectLifestyle Gym
+# Natural disaster
 Home
-About
-Services
-Contact
-Enroll now
-hero
-Gym Motivation Be Ready For Workout
-Getting to the gym and prioritizing your fitness isn’t easy—we know! But staying on track and working toward your health goals is essential. So for those days when you need some extra motivation
+
+A natural disaster is a major adverse event resulting from natural processes of the Earth; examples include firestorms, duststorms, floods, hurricanes, tornadoes, volcanic eruptions, earthquakes, tsunamis, storms, and other geologic processes.
